@@ -24,7 +24,11 @@
 - [MLflow tutorial](https://youtube.com/playlist?list=PLkz_y24mlSJZrqiZ4_cLUiP0CBN5wFmTb&si=zEp_C8zLHt1DzWKK)
 
 ##### cmd
-- mlflow ui
+export MLFLOW_TRACKING_URI= "https://dagshub.com/Janishsevak/End_to_end_DL_project.mlflow"
+
+export MLFLOW_TRACKING_USERNAME="Janishsevak"
+
+export MLFLOW_TRACKING_PASSWORD="a881fa08b54f323436e01751326aaa5dff2445ac"
 
 
 
